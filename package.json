@@ -2,6 +2,10 @@
   "name": "pivot-data",
   "version": "1.0.0",
   "description": "Group and pivot array data and easily transform matrices into objects",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mauricio-andre/pivot-data"
+  },
   "main": "src/pivotData.js",
   "scripts": {
     "test": "jest",
