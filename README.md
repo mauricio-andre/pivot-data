@@ -22,11 +22,18 @@ Essa lib não realiza qualquer alteração visual no layout da página, ela não
 
 ## Instalação
 
-(Aguardando publicação em NPM)
+Instalando o projeto usando npm
+```
+npm install pivot-data
+```
+Instalando o projeto usando yarn
+```
+yarn add pivot-data
+```
 
 Use este projeto com o jsDelivr, para isso inclua uma das duas urls abaixo em seu website: \
-pivotData.js: https://cdn.jsdelivr.net/gh/mauricio-andre/pivot-data/dist/pivotData.js \
-pivotData.min.js: https://cdn.jsdelivr.net/gh/mauricio-andre/pivot-data/dist/pivotData.min.js
+pivotData.js: https://cdn.jsdelivr.net/gh/mauricio-andre/pivot-data@1.0.0/dist/pivotData.js \
+pivotData.min.js: https://cdn.jsdelivr.net/gh/mauricio-andre/pivot-data@1.0.0/dist/pivotData.min.js
 
 Consultes os arquivos compilados na pasta [dist](dist) ou baixe os mesmos em formato
 <a href=".github/pivotData.zip?raw=true">zip</a>.
