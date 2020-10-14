@@ -1,0 +1,32 @@
+{
+  "name": "pivot-data",
+  "version": "1.0.0",
+  "description": "Group and pivot array data and easily transform matrices into objects",
+  "main": "src/pivotData.js",
+  "scripts": {
+    "test": "jest",
+    "build": "rollup -c"
+  },
+  "keywords": [
+    "pivot data",
+    "array transformation",
+    "object transformation"
+  ],
+  "author": "Mauricio Redmerski Andre",
+  "license": "MIT",
+  "devDependencies": {
+    "@rollup/plugin-commonjs": "^15.1.0",
+    "@types/jest": "^26.0.10",
+    "babel-eslint": "^10.1.0",
+    "eslint": "^6.8.0",
+    "eslint-config-airbnb-base": "^14.1.0",
+    "eslint-config-prettier": "^6.11.0",
+    "eslint-plugin-import": "^2.21.1",
+    "eslint-plugin-prettier": "^3.1.3",
+    "faker": "^5.1.0",
+    "jest": "^26.4.2",
+    "prettier": "^2.0.5",
+    "rollup": "^2.26.5",
+    "rollup-plugin-terser": "^7.0.0"
+  }
+}
