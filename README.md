@@ -1,4 +1,4 @@
-<div style="text-align: center">
+<div align="center">
 
 # pivot-data
 **Um jeito fácil de organizar dados de uma matriz para tabelas dinâmicas e outras aplicações.**
@@ -28,7 +28,8 @@ Use este projeto com o jsDelivr, para isso inclua uma das duas urls abaixo em se
 pivotData.js: https://cdn.jsdelivr.net/gh/mauricio-andre/pivot-data/dist/pivotData.js \
 pivotData.min.js: https://cdn.jsdelivr.net/gh/mauricio-andre/pivot-data/dist/pivotData.min.js
 
-Consultes os arquivos compilados na pasta [dist]('./dist') ou baixe os mesmos em formato [zip]('./.github/pivotData.zip').
+Consultes os arquivos compilados na pasta [dist](dist) ou baixe os mesmos em formato
+<a href=".github/pivotData.zip?raw=true">zip</a>.
 
 ## Modo de uso
 
@@ -139,9 +140,9 @@ Quando o parâmetro 'linearData' é verdade e 'pivotField' é informado, o array
 
 ## Licença
 
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE]('./LICENSE') para mais detalhes.
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
 
-Esse pacote foi desenvolvido para a empresa infinitidata que autorizou sua publicação sob licença MIT. Infinitidata é uma data warehouse com ótimas soluções em gestão de dados, conheça a empresa em [infinitidata.com](infinitidata.com)
+Esse pacote foi desenvolvido para a empresa infinitidata que autorizou sua publicação sob licença MIT. Infinitidata é uma data warehouse com ótimas soluções em gestão de dados, conheça a empresa em [infinitidata.com](https://infinitidata.com/)
 
 ___
 
