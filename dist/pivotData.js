@@ -1,4 +1,4 @@
-/* @license pivotData.js v1.0.0 | by mauricio-andre | (c) Infinitidata 2020 */
+/* @license pivot-data v1.0.2 | by mauricio-andre | (c) Infinitidata 2020 */
 (function (global, factory) {
   typeof exports === 'object' && typeof module !== 'undefined' ? module.exports = factory() :
   typeof define === 'function' && define.amd ? define(factory) :

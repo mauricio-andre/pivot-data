@@ -1,7 +1,13 @@
 <div align="center">
+<h1>pivot-data</h1>
 
-# pivot-data
 **Um jeito fácil de organizar dados de uma matriz para tabelas dinâmicas e outras aplicações.**
+
+![Badge](https://img.shields.io/badge/Version-1.0.2-blue?style=flat-square)
+![Badge](https://img.shields.io/badge/License-MIT-blue?style=flat-square)
+![Badge](https://img.shields.io/badge/Coverage-100%25-brightgreen?style=flat-square)
+![Badge](https://img.shields.io/badge/build-passing-brightgreen?style=flat-square)
+[![](https://img.shields.io/badge/jsDelivr-available-orange?style=flat-square)](https://www.jsdelivr.com/package/gh/mauricio-andre/pivot-data)
 
 <a href="#descrição">Descrição</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 <a href="#instalação">Instalação</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -14,11 +20,11 @@ ___
 
 ## Descrição
 
-Pivot-data é um lib criada para converter os dados de uma matriz de modo à ser usada em uma tabela dinâmica ou *pivot table*, além deste recurso você pode usar esse projeto para agrupar os dados de uma matriz de acordo com um ou mais campos chaves e converter uma matriz de dados em objeto.
+Pivot-data é um lib criada para converter os dados de uma matriz de modo à ser usada em uma tabela dinâmica (*pivot table*), além deste recurso você pode usar esse projeto para agrupar os dados de uma matriz de acordo com um ou mais campos chaves e converter uma matriz de dados em objeto.
 
 ### O que não está previsto ?
 
-Essa lib não realiza qualquer alteração visual no layout da página, ela não converte tabelas HTML em tabelas dinâmicas, a mesma converte apenas a estrutura de dados que pode ser usada para imprimir tabelas dinâmicas.
+Essa lib não realiza qualquer alteração visual no layout da página, ela não converte tabelas HTML em tabelas dinâmicas, a mesma converte apenas a estrutura de dados que pode ser usada para imprimir essas tabelas. Tabelas dinâmicas (*pivot table*) e tabelas transpostas são coisas distintas, esta lib não realiza transposição de dados.
 
 ## Instalação
 
@@ -32,8 +38,8 @@ yarn add pivot-data
 ```
 
 Use este projeto com o jsDelivr, para isso inclua uma das duas urls abaixo em seu website: \
-pivotData.js: https://cdn.jsdelivr.net/gh/mauricio-andre/pivot-data@1.0.0/dist/pivotData.js \
-pivotData.min.js: https://cdn.jsdelivr.net/gh/mauricio-andre/pivot-data@1.0.0/dist/pivotData.min.js
+pivotData.js: https://cdn.jsdelivr.net/gh/mauricio-andre/pivot-data@1.0.2/dist/pivotData.js \
+pivotData.min.js: https://cdn.jsdelivr.net/gh/mauricio-andre/pivot-data@1.0.2/dist/pivotData.min.js
 
 Consultes os arquivos compilados na pasta [dist](dist) ou baixe os mesmos em formato
 <a href=".github/pivotData.zip?raw=true">zip</a>.

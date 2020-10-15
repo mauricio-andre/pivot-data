@@ -2,7 +2,7 @@ const { terser } = require('rollup-plugin-terser');
 const commonjs = require('@rollup/plugin-commonjs');
 const pkg = require('./package.json');
 
-const banner = `/* @license pivotData.js v${pkg.version} | by mauricio-andre | (c) Infinitidata 2020 */`;
+const banner = `/* @license pivot-data v${pkg.version} | by mauricio-andre | (c) Infinitidata 2020 */`;
 module.exports = [
   {
     input: 'src/pivotData.js',

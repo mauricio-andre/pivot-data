@@ -1,0 +1,8 @@
+__tests__/
+.github/pivotData.zip
+dist
+.editorconfig
+.eslintrc
+.prettierrc
+jest.config.js
+rollup.config.js
