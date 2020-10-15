@@ -1,6 +1,6 @@
 __tests__/
 .github/pivotData.zip
-dist
+dist/
 .editorconfig
 .eslintrc
 .prettierrc
